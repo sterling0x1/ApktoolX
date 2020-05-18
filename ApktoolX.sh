@@ -12,7 +12,7 @@ title_ui() {
 
   clear
   echo "---------------------------------------------"
-  echo "-       Advanced ApkTool v1.0.0             -"
+  echo "-       Advanced ApkTo0ol v1.0.0             -"
   echo "-            By wolfmannight                -"
   echo "---------------------------------------------"
   echo " "
